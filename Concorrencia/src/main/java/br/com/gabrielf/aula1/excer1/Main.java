@@ -1,4 +1,4 @@
-package br.com.gabrielf.excer1;
+package br.com.gabrielf.aula1.excer1;
 
 
 import java.util.concurrent.ExecutorService;

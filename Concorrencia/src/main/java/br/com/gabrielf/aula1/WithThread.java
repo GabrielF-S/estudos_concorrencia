@@ -1,4 +1,4 @@
-package br.com.gabrielf;
+package br.com.gabrielf.aula1;
 
 public class WithThread {
     public static void main(String[] args) {
